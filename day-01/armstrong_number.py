@@ -1,6 +1,7 @@
 #!/usr/bin/env ptyhon3
 # -*- coding: utf-8 -*-
-from functools import reduce
+
+__author__name = 'Bert'
 
 
 def armstrong(m):
